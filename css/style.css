@@ -1,0 +1,54 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mainheader{
+    height: 10vh;
+    background-color: turquoise;
+    text-align: center;
+    padding-top: 20px;
+    color: brown;
+}
+
+
+aside{
+
+    height: 80vh;
+    background-color: violet;
+    width: 30%;
+    float: left;
+    text-align: center;
+}
+
+#subheader{
+    height: 10vh;
+    background-color: cadetblue;
+    text-align: center;
+}
+
+article{
+    height: 60vh;
+    background-color: thistle;
+    text-align: center;
+}
+
+.subfooter{
+    height: 10vh;
+    background-color: chocolate;
+    color: white;
+    text-align: center;
+}
+
+
+#mainfooter{
+    height: 10vh;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+
+
